@@ -1,4 +1,4 @@
-# 🤖 Copiloto com Fluxo de Conversa Personalizado - Microsoft Copilot Studio
+# 🤖 Copiloto com Fluxo de Conversa Personalizado com Microsoft Copilot Studio
 
 ## 📌 Resumo do Desafio
 
