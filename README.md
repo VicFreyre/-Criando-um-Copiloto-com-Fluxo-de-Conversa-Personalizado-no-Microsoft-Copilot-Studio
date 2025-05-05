@@ -28,7 +28,7 @@ O objetivo foi explorar os recursos oferecidos pela ferramenta e construir um fl
 ```plaintext
 copiloto-conversa-personalizada/
 │
-├── README.md           <- Este arquivo com o resumo do desafio.
-├── imagens/            <- (Opcional) Capturas de tela do fluxo criado.
-├── fluxo-conversa.png  <- (Opcional) Diagrama visual do fluxo de conversa.
-└── arquivos/           <- (Opcional) Documentos ou modelos auxiliares.
+├── README.md           
+├── imagens/            
+├── fluxo-conversa.png  
+└── arquivos/           
